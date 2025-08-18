@@ -1,16 +1,19 @@
-## Hi there 👋
+![logo]([https://github.com/sheikh-python/sheikh-python/blob/main/1.jpg](https://s6.uupload.ir/files/43098674309687_hvj0.png))
+<h1 align="center">Hi 👋, I'm Moeid</h1>
+<h3 align="center">Software enthusiast exploring trading bots, automation tools, engineering software, and graphic design projects. Always chasing creativity and innovation.</h3>
 
-<!--
-**moeidsadeghi/moeidsadeghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Moeid Sadeghi" width = "400" src ="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikh-python&label=Profile%20views&color=0e75b6&style=flat" alt="moeidsadeghi" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my skills
+
+- 🌱 I’m currently learning **Robotics & Embedded Systems**
+
+- 🤝 You can see my tutorials on my YouTube channel (https://www.youtube.com/channel/UCt-dSLWnzVPZbus8R6U9kTg)
+
+- 💬 Ask me about **python and trade and electronic and Engineering Software like SolidWorks, Autodesk Inventor, AutoCAD and etc**
+
+- 📫 How to reach me **moeid119s@gmail.com**
+
+
