@@ -1,4 +1,4 @@
-![logo]([https://github.com/sheikh-python/sheikh-python/blob/main/1.jpg](https://s6.uupload.ir/files/43098674309687_hvj0.png))
+![logo](https://s6.uupload.ir/files/43098674309687_hvj0.png)
 <h1 align="center">Hi 👋, I'm Moeid</h1>
 <h3 align="center">Software enthusiast exploring trading bots, automation tools, engineering software, and graphic design projects. Always chasing creativity and innovation.</h3>
 
